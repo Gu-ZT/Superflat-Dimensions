@@ -32,7 +32,7 @@
     "depth": "superflat_dimensions:overworld/depth",
     "ridges": "superflat_dimensions:overworld/ridges",
     "preliminary_surface_level": "superflat_dimensions:overworld/preliminary_surface_level",
-    "final_density": "superflat_dimensions:overworld/final_density",
+    "final_density": "superflat_dimensions:overworld/superflat/terrain",
     "vein_toggle": "superflat_dimensions:overworld/vein/toggle",
     "vein_ridged": "superflat_dimensions:overworld/vein/ridged",
     "vein_gap": "superflat_dimensions:overworld/vein/gap"
